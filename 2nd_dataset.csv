@@ -1,0 +1,241 @@
+﻿Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,
+12/09/20,18:00:00,FTC-Rail Cargo Hungaria,Rostov-Don,27,26,H,12,16,A,+
+12/09/20,18:00:00,RK Krim Mercator,Vipers Kristiansand,26,29,A,9,14,A,+
+13/09/20,14:00:00,SG BBM Bietigheim,Team Esbjerg,30,31,A,11,19,A,+
+13/09/20,17:00:00,CSM Bucuresti,Metz Handball,26,29,A,17,10,H,+
+12/09/20,16:00:00,Odense Håndbold,BV Borussia 09 Dortmund,32,27,H,13,13,D,+
+12/09/20,17:00:00,CSKA,Győri Audi ETO KC,25,27,A,14,14,D,+
+12/09/20,18:00:00,Brest Bretagne Handball,SCM Ramnicu Valcea,32,29,H,12,12,D,+
+13/09/20,16:00:00,HC Podravka Vegeta,Buducnost BEMAX,33,28,H,12,17,A,+
+19/09/20,17:00:00,Rostov-Don,RK Krim Mercator,26,22,H,12,14,A,+
+20/09/20,14:00:00,Metz Handball,SG BBM Bietigheim,34,30,H,18,8,H,+
+20/09/20,14:00:00,Team Esbjerg,CSM Bucuresti,31,30,H,15,17,A,+
+26/09/20,18:00:00,FTC-Rail Cargo Hungaria,Vipers Kristiansand,24,29,A,14,15,A,+
+19/09/20,16:00:00,Győri Audi ETO KC,HC Podravka Vegeta,40,31,H,17,16,H,+
+19/09/20,17:00:00,SCM Ramnicu Valcea,Odense Håndbold,25,25,D,10,13,A,+
+19/09/20,18:00:00,Buducnost BEMAX,CSKA,24,27,A,13,13,D,+
+20/09/20,16:00:00,BV Borussia 09 Dortmund,Brest Bretagne Handball,33,39,A,13,23,A,+
+10/10/20,16:00:00,Metz Handball,RK Krim Mercator,34,31,H,19,11,H,+
+10/10/20,18:00:00,Vipers Kristiansand,CSM Bucuresti,30,25,H,14,12,H,+
+11/10/20,14:00:00,Team Esbjerg,FTC-Rail Cargo Hungaria,22,26,A,13,9,H,+
+11/10/20,14:00:00,SG BBM Bietigheim,Rostov-Don,30,35,A,16,17,A,+
+26/09/20,16:00:00,HC Podravka Vegeta,BV Borussia 09 Dortmund,27,23,H,14,15,A,+
+26/09/20,17:00:00,CSKA,SCM Ramnicu Valcea,31,22,H,14,11,H,+
+27/09/20,16:00:00,Brest Bretagne Handball,Győri Audi ETO KC,25,28,A,12,12,D,+
+27/09/20,16:00:00,Odense Håndbold,Buducnost BEMAX,31,23,H,12,8,H,+
+17/10/20,16:00:00,RK Krim Mercator,SG BBM Bietigheim,27,26,H,12,16,A,+
+17/10/20,17:00:00,Rostov-Don,Metz Handball,32,27,H,16,12,H,+
+18/10/20,14:00:00,Team Esbjerg,Vipers Kristiansand,30,29,H,12,12,D,+
+18/10/20,17:00:00,CSM Bucuresti,FTC-Rail Cargo Hungaria,21,22,A,12,10,H,+
+10/10/20,18:00:00,Buducnost BEMAX,Brest Bretagne Handball,24,22,H,12,12,D,+
+10/10/20,18:00:00,Győri Audi ETO KC,Odense Håndbold,34,26,H,16,11,H,+
+11/10/20,16:00:00,BV Borussia 09 Dortmund,CSKA,28,31,A,15,11,H,+
+17/10/20,18:00:00,HC Podravka Vegeta,SCM Ramnicu Valcea,36,30,H,15,17,A,+
+24/10/20,16:00:00,FTC-Rail Cargo Hungaria,RK Krim Mercator,30,30,D,14,14,D,+
+24/10/20,18:00:00,Metz Handball,Team Esbjerg,32,28,H,18,14,H,+
+25/10/20,16:00:00,SG BBM Bietigheim,CSM Bucuresti,25,31,A,10,14,A,+
+07/11/20,16:00:00,Vipers Kristiansand,Rostov-Don,27,30,A,11,14,A,+
+18/10/20,14:00:00,BV Borussia 09 Dortmund,Buducnost BEMAX,28,26,H,15,13,H,+
+18/10/20,16:00:00,Brest Bretagne Handball,CSKA,29,29,D,13,17,A,+
+18/10/20,16:00:00,HC Podravka Vegeta,Odense Håndbold,21,29,A,12,16,A,+
+25/10/20,16:00:00,SCM Ramnicu Valcea,Győri Audi ETO KC,30,37,A,12,16,A,+
+07/11/20,18:00:00,Rostov-Don,Team Esbjerg,26,24,H,15,13,H,+
+07/11/20,18:00:00,RK Krim Mercator,CSM Bucuresti,26,22,H,11,12,A,+
+14/11/20,17:00:00,Vipers Kristiansand,Metz Handball,23,22,H,12,11,H,+
+15/11/20,14:00:00,SG BBM Bietigheim,FTC-Rail Cargo Hungaria,26,28,A,6,15,A,+
+06/11/20,18:30:00,BV Borussia 09 Dortmund,Győri Audi ETO KC,24,34,A,11,19,A,+
+08/11/20,16:00:00,CSKA,Odense Håndbold,30,23,H,14,11,H,+
+08/11/20,14:00:00,SCM Ramnicu Valcea,Buducnost BEMAX,29,29,D,19,11,H,+
+14/11/20,16:00:00,HC Podravka Vegeta,Brest Bretagne Handball,30,32,A,14,16,A,+
+15/11/20,14:00:00,Team Esbjerg,Rostov-Don,24,27,A,12,13,A,+
+19/11/20,18:00:00,CSM Bucuresti,Vipers Kristiansand,23,23,D,10,16,A,+
+21/11/20,16:00:00,RK Krim Mercator,FTC-Rail Cargo Hungaria,28,32,A,13,13,D,+
+22/11/20,14:00:00,SG BBM Bietigheim,Metz Handball,25,32,A,16,12,H,+
+14/11/20,18:00:00,Buducnost BEMAX,SCM Ramnicu Valcea,30,27,H,15,14,H,+
+15/11/20,16:00:00,Odense Håndbold,CSKA,26,27,A,12,11,H,+
+16/11/20,18:00:00,Brest Bretagne Handball,HC Podravka Vegeta,30,26,H,15,12,H,+
+21/11/20,18:00:00,Győri Audi ETO KC,BV Borussia 09 Dortmund,35,29,H,18,16,H,+
+09/01/21,16:00:00,FTC-Rail Cargo Hungaria,CSM Bucuresti,31,27,H,14,16,A,+
+09/01/21,18:00:00,Vipers Kristiansand,Team Esbjerg,40,28,H,16,14,H,+
+10/01/21,14:00:00,SG BBM Bietigheim,RK Krim Mercator,20,20,D,14,10,H,+
+10/01/21,16:00:00,Metz Handball,Rostov-Don,27,30,A,14,13,H,+
+22/11/20,16:00:00,Brest Bretagne Handball,Odense Håndbold,32,26,H,15,13,H,+
+09/01/21,16:00:00,Győri Audi ETO KC,CSKA,27,20,H,12,12,D,+
+09/01/21,16:00:00,SCM Ramnicu Valcea,HC Podravka Vegeta,27,27,D,18,10,H,+
+09/01/21,18:00:00,Buducnost BEMAX,BV Borussia 09 Dortmund,29,27,H,15,15,D,+
+16/01/21,12:00:00,Vipers Kristiansand,SG BBM Bietigheim,26,19,H,15,9,H,+
+16/01/21,16:00:00,FTC-Rail Cargo Hungaria,Team Esbjerg,19,20,A,12,13,A,+
+16/01/21,16:00:00,CSM Bucuresti,Rostov-Don,30,29,H,9,14,A,+
+16/01/21,18:00:00,RK Krim Mercator,Metz Handball,22,28,A,10,14,A,+
+10/01/21,16:00:00,Győri Audi ETO KC,SCM Ramnicu Valcea,36,23,H,12,15,A,+
+16/01/21,16:00:00,CSKA,BV Borussia 09 Dortmund,30,28,H,19,12,H,+
+17/01/21,16:00:00,Brest Bretagne Handball,Buducnost BEMAX,27,28,A,11,18,A,+
+17/01/21,16:00:00,Odense Håndbold,HC Podravka Vegeta,32,33,A,18,17,H,+
+20/01/21,18:45:00,FTC-Rail Cargo Hungaria,Metz Handball,36,31,H,18,15,H,+
+24/01/21,16:00:00,Rostov-Don,CSM Bucuresti,31,29,H,14,17,A,+
+24/01/21,16:00:00,Team Esbjerg,RK Krim Mercator,24,27,A,16,11,H,+
+03/02/21,18:45:00,SG BBM Bietigheim,Vipers Kristiansand,25,25,D,11,13,A,+
+17/01/21,16:00:00,HC Podravka Vegeta,CSKA,25,29,A,13,15,A,+
+20/01/21,17:00:00,Buducnost BEMAX,Odense Håndbold,26,23,H,14,10,H,+
+23/01/21,18:00:00,Győri Audi ETO KC,Brest Bretagne Handball,27,30,A,15,15,D,+
+23/01/21,18:00:00,BV Borussia 09 Dortmund,SCM Ramnicu Valcea,26,24,H,13,10,H,+
+06/02/21,16:00:00,FTC-Rail Cargo Hungaria,SG BBM Bietigheim,31,28,H,14,11,H,+
+06/02/21,16:00:00,CSM Bucuresti,Team Esbjerg,23,23,D,15,10,H,+
+06/02/21,16:00:00,RK Krim Mercator,Rostov-Don,24,21,H,17,15,H,+
+07/02/21,16:00:00,Metz Handball,Vipers Kristiansand,28,28,D,12,16,A,+
+24/01/21,14:00:00,BV Borussia 09 Dortmund,HC Podravka Vegeta,29,24,H,13,12,H,+
+24/01/21,16:00:00,SCM Ramnicu Valcea,CSKA,27,32,A,9,17,A,+
+29/01/21,19:00:00,Buducnost BEMAX,Győri Audi ETO KC,24,24,D,8,14,A,+
+31/01/21,14:00:00,Odense Håndbold,Brest Bretagne Handball,31,26,H,18,16,H,+
+08/02/21,18:45:00,Metz Handball,FTC-Rail Cargo Hungaria,30,27,H,11,15,A,+
+10/02/21,18:45:00,Rostov-Don,Vipers Kristiansand,23,23,D,16,15,H,+
+13/02/21,16:00:00,CSM Bucuresti,SG BBM Bietigheim,25,22,H,16,12,H,+
+13/02/21,16:00:00,RK Krim Mercator,Team Esbjerg,29,24,H,12,12,D,+
+06/02/21,16:00:00,Brest Bretagne Handball,BV Borussia 09 Dortmund,33,34,A,17,20,A,+
+06/02/21,18:00:00,HC Podravka Vegeta,Győri Audi ETO KC,15,30,A,8,13,A,+
+07/02/21,14:00:00,CSKA,Buducnost BEMAX,27,25,H,12,10,H,+
+07/02/21,16:00:00,Odense Håndbold,SCM Ramnicu Valcea,25,27,A,10,13,A,+
+13/02/21,18:00:00,Vipers Kristiansand,RK Krim Mercator,37,32,H,16,15,H,+
+14/02/21,14:00:00,Team Esbjerg,SG BBM Bietigheim,33,34,A,18,14,H,+
+12/09/20,16:00:00,Rostov-Don,FTC-Rail Cargo Hungaria,36,29,H,13,13,D,+
+13/02/21,16:00:00,Metz Handball,CSM Bucuresti,22,22,D,11,7,H,+
+13/02/21,18:00:00,Odense Håndbold,Győri Audi ETO KC,24,38,A,14,13,H,+
+13/02/21,18:00:00,Buducnost BEMAX,HC Podravka Vegeta,30,26,H,13,11,H,+
+14/02/21,16:00:00,CSKA,Brest Bretagne Handball,30,24,H,17,12,H,+
+14/02/21,16:00:00,SCM Ramnicu Valcea,BV Borussia 09 Dortmund,24,21,H,12,13,A,+
+21/02/21,17:30:00,Rostov-Don,SG BBM Bietigheim,30,27,H,17,11,H,+
+21/02/21,16:00:00,Vipers Kristiansand,FTC-Rail Cargo Hungaria,25,26,A,12,13,A,+
+22/02/21,14:00:00,Team Esbjerg,Metz Handball,22,27,A,8,13,A,+
+22/02/21,18:00:00,CSM Bucuresti,RK Krim Mercator,31,31,D,14,14,D,+
+21/02/21,17:00:00,BV Borussia 09 Dortmund,Odense Håndbold,28,29,A,12,15,A,+
+22/02/21,15:00:00,CSKA,HC Podravka Vegeta,30,22,H,20,9,H,+
+22/02/21,18:00:00,Győri Audi ETO KC,Buducnost BEMAX,33,22,H,13,13,D,+
+22/02/21,16:00:00,SCM Ramnicu Valcea,Brest Bretagne Handball,26,25,H,12,12,D,+
+14/03/21,14:00:00,Rostov-Don,HC Podravka Vegeta,42,30,H,24,11,H,+
+13/03/21,16:00:00,CSM Bucuresti,SCM Ramnicu Valcea,23,22,H,11,15,A,+
+14/03/21,18:00:00,Vipers Kristiansand,Odense Håndbold,33,36,A,16,17,A,+
+13/03/21,18:00:00,FTC-Rail Cargo Hungaria,Buducnost BEMAX,30,28,H,9,15,A,+
+13/03/21,16:00:00,CSKA,RK Krim Mercator,27,27,D,14,11,H,+
+14/03/21,16:00:00,BV Borussia 09 Dortmund,Metz Handball,21,27,A,11,12,A,+
+14/03/21,18:00:00,Győri Audi ETO KC,SG BBM Bietigheim,35,30,H,20,13,H,+
+14/03/21,15:00:00,Brest Bretagne Handball,Team Esbjerg,28,27,H,14,14,D,+
+20/03/21,18:00:00,RK Krim Mercator,Győri Audi ETO KC,30,33,A,14,13,D,+
+20/03/21,17:00:00,SG BBM Bietigheim,SCM Ramnicu Valcea,25,32,A,7,10,A,+
+20/03/21,16:00:00,Team Esbjerg,BV Borussia 09 Dortmund,29,34,A,18,13,H,+
+21/03/21,16:00:00,Metz Handball,Brest Bretagne Handball,22,19,H,14,17,A,+
+21/03/21,18:00:00,HC Podravka Vegeta,Rostov-Don,27,20,H,12,14,A,+
+21/03/21,16:00:00,Odense Håndbold,Vipers Kristiansand,26,26,D,15,17,A,+
+20/03/21,17:00:00,CSKA,CSM Bucuresti,28,27,H,10,13,A,+
+20/03/21,16:00:00,Buducnost BEMAX,FTC-Rail Cargo Hungaria,24,30,A,10,10,D,+
+26/03/21,18:00:00,SG BBM Bietigheim,HC Podravka Vegeta,26,26,D,11,11,D,+
+26/03/21,18:00:00,Vipers Kristiansand,CSKA,37,29,H,18,12,H,+
+26/03/21,15:00:00,CSM Bucuresti,Buducnost BEMAX,28,25,H,14,10,H,+
+27/03/21,16:00:00,FTC-Rail Cargo Hungaria,Brest Bretagne Handball,27,30,A,15,17,A,+
+26/03/21,14:00:00,BV Borussia 09 Dortmund,Team Esbjerg,27,30,A,14,20,A,+
+26/03/21,15:15:00,Győri Audi ETO KC,Rostov-Don,26,26,D,8,11,A,+
+27/03/21,16:00:00,SCM Ramnicu Valcea,Metz Handball,23,25,A,12,15,A,+
+27/03/21,20:00:00,Odense Håndbold,RK Krim Mercator,29,25,H,13,13,D,+
+02/04/21,17:00:00,Rostov-Don,BV Borussia 09 Dortmund,37,30,H,17,11,H,+
+02/04/21,14:00:00,RK Krim Mercator,CSKA,24,24,D,11,10,H,+
+02/04/21,14:00:00,Team Esbjerg,Buducnost BEMAX,33,34,A,16,10,H,+
+02/04/21,18:00:00,Metz Handball,Győri Audi ETO KC,30,27,H,15,16,A,+
+03/04/21,16:00:00,SCM Ramnicu Valcea,CSM Bucuresti,26,29,A,12,13,A,+
+03/04/21,16:00:00,HC Podravka Vegeta,FTC-Rail Cargo Hungaria,24,23,H,15,15,D,+
+03/04/21,16:00:00,Odense Håndbold,SG BBM Bietigheim,30,30,D,14,19,A,+
+02/04/21,17:00:00,Brest Bretagne Handball,Vipers Kristiansand,31,29,H,15,15,D,+
+09/04/21,14:00:00,SG BBM Bietigheim,Győri Audi ETO KC,22,30,A,8,18,A,+
+09/04/21,16:00:00,CSM Bucuresti,CSKA,32,32,D,20,12,H,+
+10/04/21,14:00:00,Vipers Kristiansand,SCM Ramnicu Valcea,30,23,H,19,12,H,+
+10/04/21,14:00:00,Team Esbjerg,Odense Håndbold,25,20,H,13,10,H,+
+10/04/21,18:00:00,Buducnost BEMAX,Metz Handball,31,32,A,15,15,D,+
+09/04/21,16:00:00,HC Podravka Vegeta,RK Krim Mercator,22,21,H,11,12,A,+
+09/04/21,18:00:00,BV Borussia 09 Dortmund,Rostov-Don,26,26,D,16,17,A,+
+10/04/21,18:00:00,Brest Bretagne Handball,FTC-Rail Cargo Hungaria,30,27,H,15,12,H,+
+16/04/21,17:00:00,Rostov-Don,Brest Bretagne Handball,21,20,H,8,11,A,+
+16/04/21,16:00:00,RK Krim Mercator,Odense Håndbold,19,23,A,5,15,A,+
+16/04/21,17:00:00,CSM Bucuresti,HC Podravka Vegeta,31,30,H,16,14,H,+
+16/04/21,16:00:00,FTC-Rail Cargo Hungaria,BV Borussia 09 Dortmund,33,31,H,16,16,D,+
+17/04/21,18:00:00,CSKA,Vipers Kristiansand,28,28,D,13,16,A,+
+17/04/21,16:00:00,Győri Audi ETO KC,Metz Handball,32,20,H,17,15,H,+
+16/04/21,16:00:00,SCM Ramnicu Valcea,SG BBM Bietigheim,23,22,H,10,12,A,+
+16/04/21,18:00:00,Buducnost BEMAX,Team Esbjerg,27,29,A,13,11,H,+
+23/04/21,14:00:00,Vipers Kristiansand,Buducnost BEMAX,34,27,H,19,12,H,+
+23/04/21,17:00:00,Metz Handball,BV Borussia 09 Dortmund,23,22,H,14,9,H,+
+24/04/21,18:00:00,SG BBM Bietigheim,CSKA,23,27,A,9,13,A,+
+24/04/21,16:00:00,Team Esbjerg,Brest Bretagne Handball,27,30,A,16,17,A,+
+23/04/21,16:00:00,Odense Håndbold,FTC-Rail Cargo Hungaria,25,25,D,13,10,H,+
+24/04/21,18:00:00,Győri Audi ETO KC,RK Krim Mercator,27,24,H,12,13,A,+
+23/04/21,16:00:00,SCM Ramnicu Valcea,Rostov-Don,23,33,A,12,15,A,+
+23/04/21,18:00:00,HC Podravka Vegeta,CSM Bucuresti,33,32,H,15,16,A,+
+01/05/21,17:00:00,RK Krim Mercator,SCM Ramnicu Valcea,23,26,A,14,13,H,+
+01/05/21,17:00:00,Rostov-Don,Odense Håndbold,26,24,H,16,13,H,+
+01/05/21,16:00:00,FTC-Rail Cargo Hungaria,HC Podravka Vegeta,33,30,H,15,15,D,+
+01/05/21,17:00:00,CSM Bucuresti,Győri Audi ETO KC,27,27,D,9,13,A,+
+01/05/21,17:00:00,BV Borussia 09 Dortmund,Vipers Kristiansand,21,25,A,10,21,A,+
+01/05/21,16:00:00,CSKA,Team Esbjerg,26,24,H,12,11,H,+
+01/05/21,14:00:00,Brest Bretagne Handball,Metz Handball,30,29,H,19,11,H,+
+01/05/21,16:00:00,Buducnost BEMAX,SG BBM Bietigheim,32,33,A,15,18,A,+
+08/05/21,18:00:00,Vipers Kristiansand,Győri Audi ETO KC,26,23,H,11,11,D,+
+08/05/21,17:00:00,Metz Handball,SCM Ramnicu Valcea,32,32,D,15,7,H,+
+08/05/21,17:00:00,Rostov-Don,Buducnost BEMAX,26,22,H,8,11,A,+
+09/05/21,14:00:00,Team Esbjerg,CSKA,23,25,A,13,10,H,+
+09/05/21,16:00:00,Odense Håndbold,CSM Bucuresti,29,30,A,14,19,A,+
+08/05/21,16:00:00,BV Borussia 09 Dortmund,FTC-Rail Cargo Hungaria,26,25,H,12,14,A,+
+08/05/21,20:45:00,Brest Bretagne Handball,RK Krim Mercator,24,26,A,11,11,D,+
+08/05/21,18:00:00,HC Podravka Vegeta,SG BBM Bietigheim,26,30,A,10,17,A,+
+14/05/21,20:00:00,SG BBM Bietigheim,Brest Bretagne Handball,28,31,A,12,18,A,+
+14/05/21,18:00:00,RK Krim Mercator,BV Borussia 09 Dortmund,31,32,A,12,13,A,+
+14/05/21,16:00:00,FTC-Rail Cargo Hungaria,Odense Håndbold,29,25,H,16,16,D,+
+14/05/21,16:00:00,Metz Handball,HC Podravka Vegeta,29,26,H,14,13,H,+
+14/05/21,18:00:00,Győri Audi ETO KC,Vipers Kristiansand,33,33,D,17,13,H,+
+14/05/21,16:00:00,Buducnost BEMAX,CSM Bucuresti,25,25,D,11,16,A,+
+14/05/21,17:00:00,CSKA,Rostov-Don,30,34,A,14,11,H,+
+14/05/21,16:00:00,SCM Ramnicu Valcea,Team Esbjerg,29,27,H,12,15,A,+
+21/05/21,16:00:00,CSM Bucuresti,BV Borussia 09 Dortmund,31,29,H,15,12,H,+
+22/05/21,14:00:00,FTC-Rail Cargo Hungaria,Győri Audi ETO KC,28,27,H,12,10,H,+
+21/05/21,14:00:00,Team Esbjerg,SCM Ramnicu Valcea,29,31,A,14,13,H,+
+21/05/21,16:00:00,Metz Handball,Odense Håndbold,28,28,D,12,13,A,+
+21/05/21,16:00:00,CSKA,SG BBM Bietigheim,33,26,H,12,16,A,+
+22/05/21,15:00:00,HC Podravka Vegeta,Vipers Kristiansand,28,30,A,14,10,H,+
+21/05/21,18:00:00,Buducnost BEMAX,RK Krim Mercator,33,28,H,11,11,D,+
+22/05/21,14:00:00,Brest Bretagne Handball,Rostov-Don,30,38,A,19,15,H,+
+29/05/21,16:00:00,RK Krim Mercator,Brest Bretagne Handball,25,26,A,12,11,H,+
+28/05/21,14:00:00,Vipers Kristiansand,HC Podravka Vegeta,37,33,H,19,12,H,+
+29/05/21,16:00:00,Metz Handball,CSKA,22,22,D,14,11,H,+
+29/05/21,18:00:00,SG BBM Bietigheim,Odense Håndbold,23,25,A,9,13,A,+
+29/05/21,16:00:00,SCM Ramnicu Valcea,FTC-Rail Cargo Hungaria,27,29,A,12,15,A,+
+30/05/21,15:15:00,Győri Audi ETO KC,Team Esbjerg,37,27,H,18,10,H,+
+29/05/21,16:00:00,BV Borussia 09 Dortmund,CSM Bucuresti,28,27,H,12,14,A,+
+30/05/21,16:00:00,Buducnost BEMAX,Rostov-Don,19,30,A,10,14,A,+
+04/06/21,16:00:00,RK Krim Mercator,Buducnost BEMAX,25,25,D,12,10,H,+
+04/06/21,17:00:00,CSM Bucuresti,Brest Bretagne Handball,26,28,A,16,11,H,+
+04/06/21,17:00:00,Rostov-Don,Győri Audi ETO KC,32,31,H,15,15,D,+
+04/06/21,16:00:00,FTC-Rail Cargo Hungaria,CSKA,22,28,A,12,13,A,+
+04/06/21,16:00:00,BV Borussia 09 Dortmund,SG BBM Bietigheim,31,25,H,16,17,A,+
+04/06/21,16:00:00,SCM Ramnicu Valcea,Vipers Kristiansand,26,26,D,13,15,A,+
+04/06/21,18:00:00,HC Podravka Vegeta,Team Esbjerg,22,21,H,12,17,A,+
+04/06/21,16:00:00,Odense Håndbold,Metz Handball,19,24,A,13,15,A,+
+11/06/21,16:00:00,CSKA,FTC-Rail Cargo Hungaria,27,28,A,14,10,H,+
+11/06/21,18:00:00,HC Podravka Vegeta,Metz Handball,25,21,H,11,12,A,+
+11/06/21,18:00:00,BV Borussia 09 Dortmund,RK Krim Mercator,29,30,A,15,11,H,+
+11/06/21,17:00:00,Rostov-Don,SCM Ramnicu Valcea,31,22,H,16,15,H,+
+11/06/21,18:45:00,Vipers Kristiansand,Brest Bretagne Handball,29,26,H,16,15,H,+
+11/06/21,16:00:00,Team Esbjerg,Győri Audi ETO KC,35,43,A,16,17,A,+
+11/06/21,16:30:00,SG BBM Bietigheim,Buducnost BEMAX,25,25,D,11,13,A,+
+11/06/21,17:00:00,CSM Bucuresti,Odense Håndbold,22,21,H,12,11,H,+
+18/06/21,18:00:00,Rostov-Don,CSKA,33,33,D,16,17,A,+
+18/06/21,16:00:00,RK Krim Mercator,HC Podravka Vegeta,32,27,H,16,15,H,+
+18/06/21,18:00:00,Vipers Kristiansand,BV Borussia 09 Dortmund,26,28,A,15,14,H,+
+18/06/21,16:00:00,Metz Handball,Buducnost BEMAX,30,22,H,16,12,H,+
+18/06/21,18:00:00,Brest Bretagne Handball,SG BBM Bietigheim,26,26,D,12,12,D,+
+18/06/21,16:00:00,Odense Håndbold,Team Esbjerg,26,25,H,10,12,A,+
+18/06/21,14:00:00,Győri Audi ETO KC,CSM Bucuresti,35,37,A,18,11,H,+
+18/06/21,18:45:00,FTC-Rail Cargo Hungaria,SCM Ramnicu Valcea,26,24,H,18,15,H,+
+24/06/21,17:00:00,SG BBM Bietigheim,BV Borussia 09 Dortmund,20,19,H,9,10,A,+
+24/06/21,14:00:00,Team Esbjerg,HC Podravka Vegeta,23,23,D,13,12,H,+
+24/06/21,16:00:00,Odense Håndbold,Rostov-Don,27,30,A,14,12,H,+
+24/06/21,16:00:00,CSKA,Metz Handball,27,22,H,12,12,D,+
+24/06/21,18:00:00,Győri Audi ETO KC,FTC-Rail Cargo Hungaria,35,27,H,13,15,A,+
+24/06/21,16:00:00,Brest Bretagne Handball,CSM Bucuresti,30,30,D,13,17,A,+
+24/06/21,16:00:00,SCM Ramnicu Valcea,RK Krim Mercator,21,27,A,12,15,A,+
+24/06/21,16:00:00,Buducnost BEMAX,Vipers Kristiansand,22,30,A,12,14,A,+
